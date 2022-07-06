@@ -3,7 +3,7 @@
 
  
  
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, PHP...
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, ReactJS, NodeJS...
 - 📫 How to reach me: guicondee@outlook.com
  
  
