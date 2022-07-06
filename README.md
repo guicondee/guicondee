@@ -24,9 +24,7 @@
 <a href="https://twitter.com/Guicomde" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/guilherme-condé-a51558216" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé -05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+ 
 <a href="https://instagram.com/guicomdee" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
