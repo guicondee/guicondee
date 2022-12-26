@@ -8,6 +8,12 @@
  
  
  ## 🛠 &nbsp;Tech Stack
+ 
+ <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+ <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
+ <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+ <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+ 
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,12 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+
  
-<div>
 ## 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Guicomde" target="_blank">
@@ -32,6 +34,6 @@
 <a href="https://instagram.com/guicomdee" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<div/>
+ 
  
 </p>
