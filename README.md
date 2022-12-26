@@ -25,7 +25,7 @@
 
 
  
-<p align="center"> ## 👨🏽‍🦲 &nbsp;Social Links <p/>
+ 
 
   <p align="center" style="background:yellow">
     <a href="https://twitter.com/Guicomde" target="_blank">
