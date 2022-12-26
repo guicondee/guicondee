@@ -3,7 +3,7 @@
 
  
  
-- 🌱 I’m currently learning  javaScript, SQL, ReactJS, Tailwind, TypeScript, NodeJS, Nextjs...
+- 🌱 I’m currently learning  javaScript, SQL, ReactJS, Tailwind, TypeScript, NodeJS, Nestjs, ReactNative, Nextjs...
 - 📫 How to reach me: guicondee@outlook.com
  
  
