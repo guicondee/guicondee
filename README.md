@@ -22,8 +22,8 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
  
-
-
+<div>
+## 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Guicomde" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
@@ -32,5 +32,6 @@
 <a href="https://instagram.com/guicomdee" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<div/>
  
 </p>
