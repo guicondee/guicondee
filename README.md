@@ -24,8 +24,6 @@
  
 
 ## 👨🏽‍🦲 &nbsp;Social Links
-
-
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Guicomde" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
