@@ -25,11 +25,12 @@
 
 
  
-<p align="center"> ## 👨🏽‍🦲 &nbsp;Social Links<p/>
-<p align="center" style="background:yellow">
-  <a href="https://twitter.com/Guicomde" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
- </a>
+<p align="center"> ## 👨🏽‍🦲 &nbsp;Social Links <p/>
+
+  <p align="center" style="background:yellow">
+    <a href="https://twitter.com/Guicomde" target="_blank">
+     <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
+   </a>
 
  <a href="https://instagram.com/guicomdee" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=instagram" alt="instagram"/>
