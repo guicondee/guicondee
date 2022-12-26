@@ -23,7 +23,7 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
  
 
-## 👨🏽‍🦲 &nbsp;Social Links
+
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Guicomde" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GuilhermeCondé-05122A?style=flat&logo=twitter" alt="twitter"/>  
