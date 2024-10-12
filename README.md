@@ -8,10 +8,10 @@
 **Linguagens e Ferramentas:**
 
 <p>
-  <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png" alt="JavaScript">
-  <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="TypeScript">
-  <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png" alt="Node.js">
-  <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png" alt="ReactJS">
+  <img align="left" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img align="left" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img align="left" height="30" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img align="left" height="30" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS">
   <img align="left" height="30" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS">
   <img align="left" height="30" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img align="left" height="30" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
