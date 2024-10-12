@@ -21,13 +21,4 @@
 </p>
 <br clear="left"/>
 
-**Vamos nos conectar!**
-
-<p align="left">
-  <a href="https://twitter.com/Guicomde" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/guicomdee" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"/>
-  </a>
-</p>
+ 
