@@ -1,25 +1,46 @@
-<h1 align="left">Hi there, I'm Guilherme Condé! 👋</h1>
+# 👋 Sobre mim
 
-- 🚀 Full Stack Developer focado em criar soluções eficientes e escaláveis
-- 🌱 Atualmente aprendendo C#, .Net, e Docker
-- 💼 Com conhecimento avançado em TypeScript, ReactJS, TailwindCSS, Node.js, NestJS, e Postgres
-- 📫 Como me encontrar: guicondee@outlook.com
+Olá! Seja bem-vindo(a) ao meu espaço no GitHub!  
+Sou apaixonado por tecnologia, aprendizado contínuo e por criar soluções que impactam de forma positiva.
 
-**Linguagens e Ferramentas:**
+Atualmente estou expandindo meus conhecimentos com foco em áreas novas e desafiadoras, além de já trabalhar com tecnologias consolidadas no mercado.
 
-<p>
-  <img align="left" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img align="left" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img align="left" height="30" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img align="left" height="30" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS">
-  <img align="left" height="30" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS">
-  <img align="left" height="30" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <br clear="left"/>
-  <p style="margin-top: 10px;">
-    <img align="left" height="30" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-    <img align="left" height="30" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-    <img align="left" height="30" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-    <img align="left" height="30" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white" alt=".NET">
-  </p>
-</p>
-<br clear="left"/>
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+- 🐍 **Python**
+- 🔗 **Protocolo A2A (Agent-to-Agent)**
+- 🧠 **MCP (Multi-Channel Processing)**
+- 🤖 **Machine Learning**
+
+---
+
+## ✅ Tecnologias que já trabalho no dia a dia
+
+- 💻 **JavaScript** | **TypeScript**
+- ⚛️ **React.js**
+- 🎨 **TailwindCSS**
+- 🖥️ **Node.js**
+- 🛢️ **PostgreSQL** | **MySQL**
+- ☁️ **AWS (Amazon Web Services)**
+- 🐳 **Docker**
+
+---
+
+## 📫 Entre em contato
+
+Se quiser trocar uma ideia, colaborar em um projeto ou simplesmente bater um papo tech, me chama aí!  
+Sinta-se à vontade para explorar meus repositórios, dar uma estrela ⭐ ou contribuir com sugestões.
+
+---
+
+## 🌐 Redes Sociais
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cond%C3%A9-a51558216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guicondee)
+
+---
+
