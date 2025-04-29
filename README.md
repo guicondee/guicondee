@@ -40,7 +40,6 @@ Sinta-se à vontade para explorar meus repositórios, dar uma estrela ⭐ ou con
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cond%C3%A9-a51558216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guicondee)
 
 ---
 
