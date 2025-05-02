@@ -11,7 +11,7 @@ Atualmente estou expandindo meus conhecimentos com foco em áreas novas e desafi
 
 - 🐍 **Python**
 - 🔗 **Protocolo A2A (Agent-to-Agent)**
-- 🧠 **MCP (Multi-Channel Processing)**
+- 🧠 **MCP (Model Context Protocol)**
 - 🤖 **Machine Learning**
 
 ---
