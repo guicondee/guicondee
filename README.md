@@ -38,7 +38,7 @@ Sinta-se à vontade para explorar meus repositórios, dar uma estrela ⭐ ou con
 ## 🌐 Redes Sociais
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cond%C3%A9-a51558216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://www.linkedin.com/in/guilherme-ferreira-a51558216/)
 &nbsp;&nbsp;
 
 ---
